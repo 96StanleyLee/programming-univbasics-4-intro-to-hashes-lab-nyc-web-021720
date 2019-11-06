@@ -5,8 +5,8 @@ end
 def my_hash
 
   new_hash = {
-    :name = "Stanley",
-    :age = 22  
+    name: = "Stanley",
+    age: = 22
   }
 end
 

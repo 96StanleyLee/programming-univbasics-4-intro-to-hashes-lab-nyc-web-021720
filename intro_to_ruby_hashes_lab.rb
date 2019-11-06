@@ -4,10 +4,10 @@ end
 
 def my_hash
 
-  new_hash = {
-    name: = "Stanley",
-    age: = 22
-  }
+  person = {
+name: "Stanley",
+age: 22
+}
 end
 
 def pioneer
